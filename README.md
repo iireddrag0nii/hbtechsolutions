@@ -10,7 +10,7 @@ This repository contains practical, step-by-step technical guides developed thro
 |---|---|
 | **Data Center in a Bag — Complete Build Guide** | Portable infrastructure, Proxmox, networking, pfSense, Docker, and Kali Linux |
 | **Building a Proxmox Virtual Environment** | Virtualization and hypervisor installation |
-| **Ubuntu Server Setup Guide** | Linux server installation and configuration |
+| **Ubuntu Server & Infrastructure Deployment Toolkit v2.0** | Linux server installation, Docker Engine, Portainer, Pi-hole, WireGuard, security, and automation |
 | **Azure Active Directory Tutorial** | Microsoft cloud identity |
 | **Entra Free and On-Premises AD SSO Guide** | Hybrid identity and single sign-on |
 | **AWS Tutorial** | AWS fundamentals and cloud infrastructure |
